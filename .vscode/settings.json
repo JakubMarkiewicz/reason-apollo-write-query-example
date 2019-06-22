@@ -1,0 +1,27 @@
+{
+    "files.exclude": {
+        "server/node_modules/graphql-upload/node_modules/fs-capacitor/**/.DS_Store": true,
+        "server/node_modules/graphql-upload/node_modules/fs-capacitor/**/node_modules": true,
+        "server/node_modules/graphql-upload/node_modules/fs-capacitor/**/package-lock.json": true,
+        "server/node_modules/graphql-upload/node_modules/fs-capacitor/**/npm-debug.log": true,
+        "server/node_modules/graphql-upload/node_modules/fs-capacitor/**/yarn.lock": true,
+        "server/node_modules/graphql-upload/node_modules/fs-capacitor/**/yarn-error.log": true,
+        "server/node_modules/graphql-upload/node_modules/fs-capacitor/**/lib": true,
+        "server/**/.env*": true,
+        "server/**/dist": true,
+        "server/**/package-lock.json": true,
+        "server/**/node_modules": true,
+        "server/**/.idea": true,
+        "server/**/.vscode": true,
+        "server/**/*.log": true,
+        "server/**/yarn.lock": true,
+        "**/.DS_Store": true,
+        "**/.merlin": true,
+        "**/.bsb.lock": true,
+        "**/npm-debug.log": true,
+        "lib/bs/": true,
+        "node_modules/": true,
+        "**/.bs.js": true,
+        "**/*.bs.js": true
+    }
+}

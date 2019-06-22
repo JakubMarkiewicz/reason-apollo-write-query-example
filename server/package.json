@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "scripts": {
+    "start": "node src/index.js",
+    "prisma": "prisma"
+  },
+  "dependencies": {
+    "graphql-yoga": "1.18.0",
+    "prisma-client-lib": "1.34.0"
+  },
+  "devDependencies": {
+    "prisma": "1.34.0"
+  }
+}
